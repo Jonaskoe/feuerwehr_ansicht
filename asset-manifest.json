@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/feuerwehr_ansicht/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/feuerwehr_ansicht/static/js/main.5cede8e8.chunk.js",
+    "main.js.map": "/feuerwehr_ansicht/static/js/main.5cede8e8.chunk.js.map",
+    "runtime-main.js": "/feuerwehr_ansicht/static/js/runtime-main.f3a2dfa0.js",
+    "runtime-main.js.map": "/feuerwehr_ansicht/static/js/runtime-main.f3a2dfa0.js.map",
+    "static/js/2.84abbb67.chunk.js": "/feuerwehr_ansicht/static/js/2.84abbb67.chunk.js",
+    "static/js/2.84abbb67.chunk.js.map": "/feuerwehr_ansicht/static/js/2.84abbb67.chunk.js.map",
+    "static/js/3.5495cdff.chunk.js": "/feuerwehr_ansicht/static/js/3.5495cdff.chunk.js",
+    "static/js/3.5495cdff.chunk.js.map": "/feuerwehr_ansicht/static/js/3.5495cdff.chunk.js.map",
+    "index.html": "/feuerwehr_ansicht/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/feuerwehr_ansicht/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.84abbb67.chunk.js.LICENSE.txt": "/feuerwehr_ansicht/static/js/2.84abbb67.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/feuerwehr_ansicht/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3a2dfa0.js",
+    "static/js/2.84abbb67.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.5cede8e8.chunk.js"
+  ]
+}
