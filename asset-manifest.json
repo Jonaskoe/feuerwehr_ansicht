@@ -1,23 +1,26 @@
 {
   "files": {
     "main.css": "/feuerwehr_ansicht/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/feuerwehr_ansicht/static/js/main.5cede8e8.chunk.js",
-    "main.js.map": "/feuerwehr_ansicht/static/js/main.5cede8e8.chunk.js.map",
-    "runtime-main.js": "/feuerwehr_ansicht/static/js/runtime-main.f3a2dfa0.js",
-    "runtime-main.js.map": "/feuerwehr_ansicht/static/js/runtime-main.f3a2dfa0.js.map",
-    "static/js/2.84abbb67.chunk.js": "/feuerwehr_ansicht/static/js/2.84abbb67.chunk.js",
-    "static/js/2.84abbb67.chunk.js.map": "/feuerwehr_ansicht/static/js/2.84abbb67.chunk.js.map",
-    "static/js/3.5495cdff.chunk.js": "/feuerwehr_ansicht/static/js/3.5495cdff.chunk.js",
-    "static/js/3.5495cdff.chunk.js.map": "/feuerwehr_ansicht/static/js/3.5495cdff.chunk.js.map",
+    "main.js": "/feuerwehr_ansicht/static/js/main.6fe096a4.chunk.js",
+    "main.js.map": "/feuerwehr_ansicht/static/js/main.6fe096a4.chunk.js.map",
+    "runtime-main.js": "/feuerwehr_ansicht/static/js/runtime-main.23400870.js",
+    "runtime-main.js.map": "/feuerwehr_ansicht/static/js/runtime-main.23400870.js.map",
+    "static/js/2.b95ebc70.chunk.js": "/feuerwehr_ansicht/static/js/2.b95ebc70.chunk.js",
+    "static/js/2.b95ebc70.chunk.js.map": "/feuerwehr_ansicht/static/js/2.b95ebc70.chunk.js.map",
+    "static/js/3.2fd7b883.chunk.js": "/feuerwehr_ansicht/static/js/3.2fd7b883.chunk.js",
+    "static/js/3.2fd7b883.chunk.js.map": "/feuerwehr_ansicht/static/js/3.2fd7b883.chunk.js.map",
     "index.html": "/feuerwehr_ansicht/index.html",
     "static/css/main.8c8b27cf.chunk.css.map": "/feuerwehr_ansicht/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.84abbb67.chunk.js.LICENSE.txt": "/feuerwehr_ansicht/static/js/2.84abbb67.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/feuerwehr_ansicht/static/media/logo.6ce24c58.svg"
+    "static/js/2.b95ebc70.chunk.js.LICENSE.txt": "/feuerwehr_ansicht/static/js/2.b95ebc70.chunk.js.LICENSE.txt",
+    "static/media/Box1.19195be9.png": "/feuerwehr_ansicht/static/media/Box1.19195be9.png",
+    "static/media/Box2.60f283ce.png": "/feuerwehr_ansicht/static/media/Box2.60f283ce.png",
+    "static/media/auto_links.f80f3995.png": "/feuerwehr_ansicht/static/media/auto_links.f80f3995.png",
+    "static/media/auto_rechts.3c9f6a3b.png": "/feuerwehr_ansicht/static/media/auto_rechts.3c9f6a3b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.f3a2dfa0.js",
-    "static/js/2.84abbb67.chunk.js",
+    "static/js/runtime-main.23400870.js",
+    "static/js/2.b95ebc70.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.5cede8e8.chunk.js"
+    "static/js/main.6fe096a4.chunk.js"
   ]
 }
